@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+{% shravya_gs_machine_learning.pdf %}
 
 Education
 ======
